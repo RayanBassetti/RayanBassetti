@@ -15,6 +15,8 @@ Efficient with #React.
 
 Don't hesitate to hit me up on my DMs !
 
+PS: I'm too lazy to do proper Markdown. Don't sue me please.
+
 <!--
 **RayanBassetti/RayanBassetti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
