@@ -11,7 +11,7 @@ Working on little apps to learn stuff, nothing impressive :
 - FakeBets (mobile app, private repository, coming soon)
 - Track And Play (PWA, private repository, coming soon)
 
-Efficient with #React. 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RayanBassetti&theme=buefy&layout=compact)
 
 Don't hesitate to hit me up on my DMs !
 
