@@ -4,10 +4,6 @@
 Currently a web dev, starting my mobile app journey, end goal: the video game industry.
 
 ## What Am I Doing Here 
-Working on little apps to learn stuff, nothing impressive :
-
-- FakeBets (mobile app, private repository)
-- Track And Play (PWA, private repository)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RayanBassetti&theme=buefy&layout=compact)
 
