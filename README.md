@@ -1,8 +1,6 @@
 ### Hi there 👋
 
 ## Who Am I
-My name is Rayan Bassetti.
-24 years old, 5th year student.
 Currently a web dev, starting my mobile app journey, end goal: the video game industry.
 
 ## What Am I Doing Here 
